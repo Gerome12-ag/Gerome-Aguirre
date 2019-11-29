@@ -1,0 +1,421 @@
+body{
+	background-image: linear-gradient(to left, black,white,black);
+}
+.wrapper{
+	width: 1200px;
+	min-height: 500px;
+	margin: 0 auto;
+	display: block;
+	border: 5px solid white;
+
+}
+.body{
+	background-image: linear-gradient(blue,navy,black); 
+	width: 100%;
+	min-height: 500px;
+	background-repeat: no-repeat;
+	background-size: cover;
+	box-sizing: border-box;
+	overflow: hidden;
+}
+
+header{
+	width: 100%;
+	height: 110px;
+	box-sizing: border-box;
+	border-bottom: 2px solid white;
+}
+.header a{
+	color: white;
+}
+header h1{
+	padding-left: 20px;
+	color: yellow;
+	font-size: 80px;
+	margin-bottom: 10px;
+}
+.intro{
+	width: 100%;
+	min-height: 250px;
+	border-bottom: 2px solid white;
+	box-sizing: border-box;
+	overflow: hidden;
+}
+.int{
+	width: 95%;
+	min-height: 200px;
+	margin-left: 32px;
+	box-sizing: border-box;
+	overflow: hidden;
+}
+.int1 img{
+	width: 200px;
+	height: 200px;
+	margin: 0 auto;
+	display: block;
+}
+.int h1{
+	text-align: left;
+	color: white;
+	font-size: 40px;
+}
+.int p{
+	padding-left: 20px;
+	color: white;
+	font-size: 20px;
+}
+.int1{
+	width: 100%;
+	min-height: 200px;
+	margin-top: 10px;
+}
+.int1 img{
+	width: 200px;
+	height: 200px;
+	margin: 0 auto;
+	display: block;
+}
+.int1 h1{
+	text-align: center;
+	color: white;
+	font-size: 40px;
+}
+.Program{
+	width: 100%;
+	min-height: 500px;
+	float: right;
+	box-sizing: border-box;
+	overflow: hidden;
+}
+aside{
+	width: 35%;
+	min-height: 1020px;
+	box-sizing: border-box;
+	float: left;
+	padding: 20px;
+	border-right: 4px solid white;
+}
+aside a{
+	width: 90%;
+	height: 12px;
+	font-size: 23px;
+	color: yellow;
+	float: left;
+	padding: 20px;
+	margin-top: 5px;
+	padding-bottom: 30px;
+	margin-bottom: 15px;
+	border: 1px solid white;
+	background-color: #052f68;
+	text-decoration: none;
+}
+.language1{
+	width: 63%;
+	min-height: 200px;
+	float: left;
+	margin-left: 20px;
+	
+}
+.language1 h1{
+	min-height: 70px;
+	color: dodgerblue;
+	font-size: 50px;
+}
+.language1 p{
+	color: white;
+}
+.language2{
+	width: 62%;
+	min-height: 200px;
+	float: left;
+	margin-left: 20px;
+}
+.language3{
+	width: 62%;
+	min-height: 200px;
+	float: left;
+	margin-left: 20px;
+}
+.language4{
+	width: 62%;
+	min-height: 110px;
+	float: left;
+	margin-left: 20px;
+}
+.title{
+	height: 70px;
+	margin-left: 20px;
+	border-bottom: 4px solid white;
+}
+.language1 img{
+	margin-left: 30px;
+	margin: 0 auto;
+	display: block;
+}
+.titlecon{
+	width: 70%;
+	min-height: 50px;
+	margin: 0 auto;
+	display: block;
+	margin-top: 15px;
+}
+.titlecon p{
+	color: white;
+	text-align: center;
+}
+
+/* Developer or Try */
+.dev{
+	width: 100%;
+	min-height: 200px;
+	padding: 10px;
+	overflow: hidden;
+	box-sizing: border-box;
+}
+.albert{
+	width: 100%;
+	min-height: 100px;
+	float: left;
+	box-sizing: border-box;
+	overflow: hidden;
+}
+.albert img{
+	width: 300px;
+	height: 400px;
+	margin: 10px;
+	float: left;
+}
+.albert h1{
+	font-size: 60px;
+	color: red;
+	margin: 10px;
+}
+.albert p{
+	font-size: 25px;
+	color: white;
+	margin: 0px;
+	margin-bottom: 25px;
+}
+
+.gerome{
+	width: 100%;
+	min-height: 100px;
+	float: left;
+	box-sizing: border-box;
+	overflow: hidden;
+}
+.gerome img{
+	width: 300px;
+	height: 400px;
+	margin: 10px;
+	float: left;
+}
+.gerome h1{
+	font-size: 60px;
+	color: red;
+	margin: 10px;
+}
+.gerome p{
+	font-size: 25px;
+	color: white;
+	margin: 0px;
+	margin-bottom: 25px;
+}
+.rica{
+	width: 100%;
+	min-height: 100px;
+	float: left;
+	box-sizing: border-box;
+	overflow: hidden;
+}
+.rica img{
+	width: 300px;
+	height: 400px;
+	margin: 10px;
+	float: left;
+}
+.rica h1{
+	font-size: 60px;
+	color: red;
+	margin: 10px;
+}
+.rica p{
+	font-size: 25px;
+	color: white;
+	margin: 0px;
+	margin-bottom: 25px;
+}
+a{
+	padding: 10px;
+	font-size: 25px;
+	margin-bottom: 10px;
+	color: orange;
+}
+
+/* developers: Albert,Gerome,Regina */
+.body1{
+	padding: 45px;
+}
+.header{
+	width: 100%;
+	min-height: 110px;
+	border-bottom: 2px solid white;
+}
+.header h1{
+	padding-left: 20px;
+	color: red;
+	font-size: 60px;
+	padding-top: 5px;
+}
+.int1{
+	width: 100%;
+	min-height: 100px;
+	padding: 10px;
+	padding-top: 0px;
+	margin: 0px;
+	
+}
+.int1 img{
+	width: 400px;
+	height: 400px;
+	margin: 0 auto;
+	display: block;
+}
+.personal{
+	width: 100%;
+	min-height: 100px;
+	padding: 10px;
+	overflow: hidden;
+	
+}
+.personal h2{
+	font-size: 40px;
+	color: orange;
+	margin-top: 0px;
+	margin-bottom: 0px;
+}
+li{
+	font-size: 25px;
+	padding-left: 2px;
+	color: white;
+}
+ul{
+	background-color: ;
+	width: 90%;
+	float: right;
+	margin-bottom: 0px;
+}
+.edu{
+	width: 100%;
+	min-height: 100px;
+	padding: 10px;
+	overflow: hidden;
+	
+}
+.edu h2{
+	font-size: 40px;
+	color: orange;
+	margin-top: 0px;
+	margin-bottom: 0px;
+}
+.skills{
+	width: 100%;
+	min-height: 100px;
+	padding: 10px;
+	overflow: hidden;
+	
+}
+.skills h2{
+	font-size: 40px;
+	color: orange;
+	margin-top: 0px;
+	margin-bottom: 0px;
+}
+.language{
+	width: 100%;
+	min-height: 100px;
+	padding: 10px;
+	overflow: hidden;
+	
+}
+.language h2{
+	font-size: 40px;
+	color: orange;
+	margin-top: 0px;
+	margin-bottom: 0px;
+}
+.interest{
+	width: 100%;
+	min-height: 100px;
+	padding: 10px;
+	overflow: hidden;
+	
+}
+.interest h2{
+	font-size: 40px;
+	color: orange;
+	margin-top: 0px;
+	margin-bottom: 0px;
+}
+.assets{
+	width: 100%;
+	min-height: 100px;
+	padding: 10px;
+	margin-bottom: 10px;
+	overflow: hidden;
+	
+}
+.assets h2{
+	font-size: 40px;
+	color: orange;
+	margin-top: 0px;
+	margin-bottom: 0px;
+}
+/* tools */
+
+.soft{
+	width: 100%;
+	min-height: 100px;
+	padding: 10px;
+	margin-bottom: 20px;
+	border-bottom: 2px solid white;
+
+}
+.soft h1{
+	font-size: 50px;
+	margin-top: 10px;
+	margin-bottom: 10px;
+	color: orange;
+
+}
+.soft p{
+	font-size: 25px;
+	color: white;
+	margin-bottom: 5px;
+	padding-bottom: 10px;
+}
+.hardwrare{
+	width: 100%;
+	min-height: 200px;
+}
+.ware{
+	width: 25%;
+	min-height: 100px;
+	float: left;
+	box-sizing: border-box;
+}
+.ware img{
+	width: 275px;
+	height: 300px;
+	border: 3px solid black;
+}
+div .img img{
+	width: 100%;
+	height: 300px;
+}
+.ware h1{
+	text-align: center;
+	margin-top: 0px;
+	color: orange;
+	font-size: 20px;
+}

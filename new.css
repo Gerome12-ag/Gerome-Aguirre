@@ -1,0 +1,170 @@
+body{
+	background-image: linear-gradient(to left, black,blue,black);
+}
+.wrapper{
+	width: 1200px;
+	margin: 0 auto;
+	display: block;
+	border: 5px solid white;
+
+}
+.body{
+	width: 100%;
+	background-image: url(imags.jpg);
+	background-repeat: no-repeat;
+	background-size: cover;
+	box-sizing: border-box;
+	overflow: hidden;
+	background-image: linear-gradient(blue,navy,black);
+}
+header{
+	float: left;
+	width: 100%;
+	height: 110px;
+	border-bottom: 2px solid white;
+	padding: 10px;
+}
+header h1{
+	color: white;
+	font-size: 60px;
+	color: yellow;
+	
+}
+.intro{
+	float: left;
+	width: 100%;
+	min-height: 250px;
+	border-bottom: 2px solid white;
+	box-sizing: border-box;
+	overflow: hidden;
+}
+.int{
+	width: 95%;
+	min-height: 200px;
+	margin-left: 32px;
+	box-sizing: border-box;
+	overflow: hidden;
+	float: left;
+}
+.int1 img{
+	width: 200px;
+	height: 200px;
+	margin: 0 auto;
+	display: block;
+}
+.int h1{
+	text-align: left;
+	color: orange;
+	font-size: 40px;
+}
+.int p{
+	padding-left: 20px;
+	color: white;
+	font-size: 20px;
+}
+.int1{
+	width: 100%;
+	min-height: 200px;
+	margin-top: 10px;
+	box-sizing: border-box;
+	overflow: hidden;
+	float: left;
+}
+.int1 img{
+	width: 200px;
+	height: 200px;
+	margin: 0 auto;
+	display: block;
+}
+.int1 h1{
+	text-align: center;
+	color: white;
+	font-size: 40px;
+}
+.Program{
+	width: 100%;
+	min-height: 500px;
+	float: right;
+	box-sizing: border-box;
+	overflow: hidden;
+}
+aside{
+	width: 35%;
+	height: 1400px;
+	box-sizing: border-box;
+	float: left;
+	padding: 20px;
+	border-right: 4px solid white;
+}
+aside a{
+	width: 90%;
+	height: 12px;
+	font-size: 23px;
+	color: yellow;
+	float: left;
+	padding: 20px;
+	margin-top: 5px;
+	padding-bottom: 30px;
+	margin-bottom: 15px;
+	border: 1px solid white;
+	background-color: #052f68;
+	text-decoration: none;
+}
+.language1{
+	width: 63%;
+	min-height: 200px;
+	float: left;
+	margin-left: 20px;
+	
+}
+.language1 h1{
+	min-height: 70px;
+	color: dodgerblue;
+	font-size: 50px;
+}
+.language1 p{
+	color: white;
+}
+.language2{
+	width: 62%;
+	min-height: 200px;
+	float: left;
+	margin-left: 20px;
+}
+.title h1{
+	color: yellow;
+}
+.language3{
+	width: 62%;
+	min-height: 200px;
+	float: left;
+	margin-left: 20px;
+}
+.language4{
+	width: 62%;
+	min-height: 110px;
+	float: left;
+	margin-left: 20px;
+}
+.title{
+	min-height: 70px;
+	margin-left: 20px;
+	border-bottom: 4px solid white;
+}
+.language1 img{
+	margin-left: 30px;
+	margin: 0 auto;
+	display: block;
+}
+.titlecon{
+	width: 70%;
+	min-height: 50px;
+	margin: 0 auto;
+	display: block;
+	margin-top: 15px;
+
+}
+.titlecon p{
+	color: white;
+	text-align: center;
+}
